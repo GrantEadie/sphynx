@@ -1,0 +1,11 @@
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/bin/Debug/netcoreapp2.2/riddle.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/bin/Debug/netcoreapp2.2/riddle.runtimeconfig.json
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/bin/Debug/netcoreapp2.2/riddle.runtimeconfig.dev.json
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/bin/Debug/netcoreapp2.2/riddle.dll
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/bin/Debug/netcoreapp2.2/riddle.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.dll
+/Users/granteadie/Desktop/EPICODUS/C#/riddle/obj/Debug/netcoreapp2.2/riddle.pdb
